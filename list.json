@@ -1,0 +1,35 @@
+[
+    {
+       "address": "0x84A8679D6a52B664794089Ad4e48141450Ec9093",
+       "stake": 1000,
+       "active": true,
+       "validatedBlock": 11229,
+       "commission": 8,
+       "name": " 🐉 Dragon-pool",
+       "link": "",
+       "descriptionn": "**Dragon Pool** is a powerful mining pool designed for maximum efficiency, similar to NiceHash. It allows miners to join forces and mine various cryptocurrencies, optimizing returns through pooled resources and advanced algorithms. With Dragon Pool, you can enjoy reliable payouts, reduced volatility, and a user-friendly interface that simplifies the mining process.",
+       "pictureURL": "https://i.ibb.co/wpPwSVz/image-removebg-preview.png"
+    },
+    {
+       "address": "0x90C3C90cfA50342127371b46Ba0ef5A9Cf57c618",
+       "stake": 7623469,
+       "active": true,
+       "validatedBlock": 11249,
+       "commission": 7,
+       "name": "🦀 craswap",
+       "link": "",
+       "descriptionn": "Craswap is a fast and efficient DeFi token exchange platform that allows you to swap BEP-20 tokens instantly with low transaction fees. Offering high liquidity and a user-friendly interface, Craswap delivers a seamless and secure trading experience, similar to PancakeSwap.",
+       "pictureURL": "https://i.ibb.co/0r8xKJZ/Screenshot-from-2024-06-14-13-37-44-removebg-preview.png"
+    },
+    {
+       "address": "0x2588A8Cef387B3F6B12d649af71b29dC2bC4AA03",
+       "stake": 7429315,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 7,
+       "name": "P2P.org",
+       "link": "https://p2p.org",
+       "descriptionn": "Secure non-custodial SOL staking service | Solana seed investors and contributors | Wormhole Hackathon Winners.",
+       "pictureURL": "https://cdn.p2p.org/p2p360_logo.png"
+    }  
+ ]
