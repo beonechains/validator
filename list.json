@@ -1,6 +1,6 @@
 [
     {
-       "address": "0x84A8679D6a52B664794089Ad4e48141450Ec9093",
+       "address": "0xc0e498997AbbB23535c850552E3Fe5Bc51B4A941",
        "stake": 1000,
        "active": true,
        "validatedBlock": 11229,
@@ -11,7 +11,7 @@
        "pictureURL": "https://i.ibb.co/wpPwSVz/image-removebg-preview.png"
     },
     {
-       "address": "0x90C3C90cfA50342127371b46Ba0ef5A9Cf57c618",
+       "address": "0xd1edaA7e24027fe0406F0eF037855D9e10b3ab9D",
        "stake": 7623469,
        "active": true,
        "validatedBlock": 11249,
@@ -22,7 +22,7 @@
        "pictureURL": "https://i.ibb.co/0r8xKJZ/Screenshot-from-2024-06-14-13-37-44-removebg-preview.png"
     },
     {
-       "address": "0x2588A8Cef387B3F6B12d649af71b29dC2bC4AA03",
+       "address": "0xC5a1E9Ff9Ae39Ba0550af211Ef2a39Abb8664b08",
        "stake": 7429315,
        "active": true,
        "validatedBlock": 11242,
